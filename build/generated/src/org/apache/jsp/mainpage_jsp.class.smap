@@ -1,0 +1,24 @@
+SMAP
+mainpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 mainpage.jsp
+mainpage.jsp
++ 1 header.html
+header.html
++ 2 menu2.jsp
+menu2.jsp
++ 3 footer.html
+footer.html
+*L
+5,23:51
+1#1,36:74
+27#0,6:109
+1#2,131:115
+132,3:247
+134,34:250
+32#0,14:283
+1#3,33:297
+45#0,7:329
+*E
